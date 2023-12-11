@@ -1,0 +1,500 @@
+   22  ls -lA
+   23  cd ..
+   24  cd Algo/
+   25  mkdir games
+   26  cd games/
+   27  git clone [200~https://github.com/Anemon10/MontripleAAA.git~
+   28  git clone https://github.com/Anemon10/MontripleAAA.git
+   29  ls
+   30  ls
+   31  cd ..
+   32  ls
+   33  rm -rf games/
+   34  ls
+   35  cd ..
+   36  mkdir games
+   37  ls
+   38  cd games/
+   39  git clone https://github.com/Anemon10/MontripleAAA.git
+   40  ls
+   41  mkdir training ; cd training ; touch script.sh
+   42  ls
+   43  vim script.sh
+   44  cat script.sh
+   45  bash script.sh
+   46  mkdir ConsoleSalon ConsolePortable
+   47  ls
+   48  mkdir xbox360 xboxOne xboxX PS5 PS4 PS3 PSvita Switch
+   49  ls
+   50  rm -rf script.sh
+   51  ls
+   52  mv xboxX xboxserieX
+   53  ls
+   54  mv PS5/ ConsoleSalon/
+   55  mv PS4/ ConsoleSalon/
+   56  mv PS3/ ConsoleSalon/
+   57  ls
+   58  cd ConsoleSalon/
+   59  ls
+   60  cd ..
+   61  mv xbox360/ ConsoleSalon/
+   62  mv xboxOne/ ConsoleSalon/
+   63  mv xboxserieX/ ConsoleSalon/
+   64  ls
+   65  mv Switch/ ConsolePortable ; mv PSvita/ ConsolePortable/
+   66  ls
+   67  cd consolePortable/
+   68  ls
+   69  cd ..
+   70  ls
+   71  clear
+   72  cd Algorithmique/
+   73  find alog/
+   74  find algo/
+   75  find -h algo/
+   76  find -H algo/
+   77  clear
+   78  cd ..
+   79  cd ..
+   80  ls
+   81  cd algo/
+   82  ls
+   83  cd ..
+   84  cd Algo/
+   85  ls
+   86  touch script.sh
+   87  git log
+   88  git status
+   89  cd ..
+   90  cd games/
+   91  ls
+   92  cd montripleAAA/
+   93  ls
+   94  touch test.txt
+   95  vim test.txt
+   96  git status
+   97  ls
+   98  ls -la
+   99  git config --global --add safe.directory E:/ICAN/Algorithmique/games/MontripleAAA
+  100  git status
+  101  git add .
+  102  git commit -m "ajout fichier test.txt"
+  103  git config --global user.email "florian@d-araujo.com"
+  104  git config --global user.name "Anemon10"
+  105  git push
+  106  git status
+  107  git commit -m "ajout fichier test.txt"
+  108  git push
+  109  ls
+  110  cd..
+  111  cd...
+  112  cd
+  113  ls
+  114  cd.
+  115  clear
+  116  cd unity
+  117  cd
+  118  ls
+  119  ls
+  120  cd ICAN
+  121  ls
+  122  cd B1
+  123  ls
+  124  cd Algorithmique
+  125  ls
+  126  mkdir quetes
+  127  ls
+  128  cd quetes
+  129  ls
+  130  touch index.html
+  131  ls
+  132  touch index.html
+  133  echo <html>
+  134  cat index.html
+  135  echo <html>
+  136  ls
+  137  echo "<html>"
+  138  echo "<html>" > index.html
+  139  vim index.html
+  140  ls
+  141  vim index.html
+  142  cd.
+  143  ls
+  144  cd
+  145  ls
+  146  clear
+  147  ls
+  148  ls
+  149  cd.
+  150  cd..
+  151  .
+  152  cd .
+  153  ls
+  154  cd ..
+  155  ls
+  156  cd..
+  157  cd quetes
+  158  ls
+  159  git clone https://github.com/Anemon10/helloworld.git
+  160  ls
+  161  mv index.html ./helloworld/
+  162  ls
+  163  cd helloworld/
+  164  ls
+  165  git add index.html 
+  166  git commit -m "changer le titre"
+  167  git push
+  168  git config --global --ad safe.directory E:/ICAN/B1/Algorithmique/quetes/helloworld
+  169  git add 
+  170  git add index.html 
+  171  git commit -m "changer le titre"
+  172  git push
+  173  ls
+  174  vim index.html
+  175  ls
+  176  cd ..
+  177  ls
+  178  git --version
+  179  touch ESSCA-git
+  180  ls
+  181  vim ESSCA-git
+  182  rm ESSCA-git
+  183  ls
+  184  git init ESSCA-git
+  185  ls
+  186  cd ESSCA-git
+  187  ls
+  188  touch essca.html
+  189  ls
+  190  git add -A
+  191  git add ESSCA-git
+  192  git config --global --add safe.directory E:/I
+  193  ls
+  194  git add essca.html
+  195  git config --global --add safe.directory E:/ICAN/B1/Algorithmique/quetes/ESSCA-git
+  196  ls
+  197  git add -A
+  198  ls
+  199  git status
+  200  git commit -m "ESSCA is my home"
+  201  git push
+  202  git remote add Essca-my-home https://github.com/Anemon10/Essca-my-home.git
+  203  git push Essca-my-home
+  204  git push --set-upstream Essca-my-home master
+  205  ls
+  206  cd Space_Ship_V2/
+  207  ls
+  208  git clone https://github.com/Anemon10/Space_Shooter_Final_Emma-Florian.git
+  209  ls
+  210  ls
+  211  cd ..
+  212  ls
+  213  cd ..
+  214  ls
+  215  git clone https://github.com/Anemon10/exam_shell_aglo_b1.git
+  216  git pull
+  217  git pull
+  218  git pull
+  219  rm -rf .git
+  220  ls
+  221  cd exam_shell_aglo_b1/
+  222  ls
+  223  git pull
+  224  git config --global --add safe.directory E:/ICAN/B1/Algorithmique/Exam_shell_algo_b1/exam_shell_algo_b1
+  225  git pull
+  226  git config --global --add safe.directory E:/ICAN/B1/Algorithmique/Exam_shell_algo_b1/exam_shell_aglo_b1
+  227  git pull
+  228  ls
+  229  cd ex01/
+  230  ls
+  231  cd ..
+  232  ls
+  233  cd ex00/
+  234  ls
+  235  cd covers/
+  236  ls
+  237  mkdir nintendo sony microsoft
+  238  ls
+  239  touch 1.txt 2.txt 3.txt
+  240  ls
+  241  mv [1.txt 2.txt 3.txt] ./sony/
+  242  ls
+  243  cd sony/
+  244  ls
+  245  cd ..
+  246  mv [ 1.txt 3.txt ] ./sony/
+  247  ls
+  248  cd sony/
+  249  ls
+  250  rm -rf *
+  251  ls
+  252  cd ..
+  253  ls
+  254  mkdir sega
+  255  ls
+  256  mv gameboy.pokemonred.jpg gb_pokemonblue_eu.jpg gb_pokemongreen_3.jpg gb_pokemonyellow_au.jpg gbc_pokemongold.jpg gc_mariokartdoubledash.jpg gc_supermariosunshine.jpg ./nintendo/
+  257  ls
+  258  mv gameboy.pokmonred.jpg ./nintendo/
+  259  ls
+  260  mv dc_shenmueii_5.jpg dc_shenmue_eu.jpg dc_jetsetradio_eu_front.jpg dc_jetgrindradio_10.jpg ./sega/
+  261  ls
+  262  mv ps4_fifa14.jpg playstation_5.residentevilvillage_.jpg playstation_5.farcry6.jpg playstation_5.assassinscreedvalhalla.jpg playstation_4.watchdogs2.jpg playstation_4.unchartedthelostlegacy.jpg playstation_4.assassinscreedodyssey.jpg ./sony/
+  263  ls
+  264  mv xbox_needforspeedunderground2.jpg xbox_jetsetradiofuture_2.jpg xbox_halo_2.jpg xbox_halo2.jpg xbox_defjamfightforny.jpg xbox_deadtorights.jpg xbox_deadoralive3.jpg xbox_360.fableiii.jpg x360_callofdutyblackopsii.jpg x360_callofduty4.jpg x360_callofduty2.jpg x360_callfoduty3.jpg ./microsoft/
+  265  ls
+  266  cd sega/
+  267  ls
+  268  mkdir dreamcast
+  269  ls
+  270  mkdir salon
+  271  mv dc_jetsetradio_eu_front.jpg  dc_shenmueii_5.jpg dc_jetgrindradio_10.jpg      dc_shenmue_eu.jpg ./dreamcast/
+  272  ls
+  273  mv dreamcast/ ./salon/
+  274  ls
+  275  cd salon/
+  276  ls
+  277  cd dreamcast/
+  278  ls
+  279  cd ..
+  280  cd ..
+  281  ls
+  282  cd ..
+  283  ls
+  284  cd nintendo/
+  285  ls
+  286  mkdir salon portable gameboy gameboycolor gamecube
+  287  ls
+  288  mv gameboy.pokmonred.jpg gb_pokemonblue_eu.jpg gb_pokemongreen_3.jpg gb_pokemonyellow_au.jpg ./gameboy/
+  289  ls
+  290  mv gbc_pokemongold.jpg ./gameboycolor/
+  291  ls
+  292  mv gc_mariokartdoubledash.jpg gc_supermariosunshine.jpg ./gamecube/
+  293  ls
+  294  mv gameboy/ gameboycolor/ ./portable/
+  295  ls
+  296  mv gamecube/ ./salon/
+  297  ls
+  298  cd ..
+  299  ls
+  300  cd microsoft/
+  301  ls
+  302  mkdir salon xbox xbox360
+  303  ls
+  304  mv x360_callfoduty3.jpg x360_callofduty2.jpg x360_callofduty4.jpg x360_callofdutyblackopsii.jpg xbox_360.fableiii.jpg ./xbox360/
+  305  ls
+  306  mv xbox_deadoralive3.jpg xbox_deadtorights.jpg xbox_defjamfightforny.jpg xbox_halo2.jpg xbox_halo_2.jpg xbox_jetsetradiofuture_2.jpg xbox_needforspeedunderground2.jpg ./xbox/
+  307  ls
+  308  mv xbox/ xbox360/ ./salon/
+  309  ls
+  310  cd ..
+  311  ls
+  312  cd sony/
+  313  ls
+  314  mkdir salon ps4 ps5
+  315  ls
+  316  mv ps4_fifa14.jpg playstation_4.watchdogs2.jpg playstation_4.unchartedthelostlegacy.jpg playstation_4.assassinscreedodyssey.jpg ./ps4/
+  317  ls
+  318  mv playstation_5.residentevilvillage_.jpg playstation_5.farcry6.jpg playstation_5.assassinscreedvalhalla.jpg ./ps5/
+  319  ls
+  320  mv ps4/ ps5/ ./salon/
+  321  ls
+  322  cd ..
+  323  ls
+  324  cd ..
+  325  ls
+  326  cd ..
+  327  ls
+  328  cd ex01/
+  329  ls
+  330  cat instructions.txt
+  331  ls
+  332  head dialogue.txt
+  333  head dialogue.txt > firstcommand.sh
+  334  ls
+  335  tail -n10 > secondcommand.sh
+  336  tail -n 10 dialogue.txt > secondcommand.sh
+  337  ls
+  338  cat secondcommand.sh
+  339  head -c 100 dialogue.txt > thirdcommand.sh
+  340  ls
+  341  mkdir commands
+  342  mv firstcommand.sh secondcommand.sh thirdcommand.sh ./commands/
+  343  ls
+  344  cd ..
+  345  ls
+  346  cd ex02/
+  347  ls
+  348  cat instructions.txt
+  349  ls
+  350  cat data.csv
+  351  ls
+  352  cd ..
+  353  ls
+  354  cd ..
+  355  ls
+  356  cd exam_shell_aglo_b1/
+  357  ls
+  358  git status
+  359  git commit -a -m "fait ex00 et ex01"
+  360  git status
+  361  git add
+  362  git add ex00/ ex01/
+  363  git status
+  364  git commit -m "fait les ex00 et ex01"
+  365  git push
+  366  history
+  367  clear
+  368  history > history.txt
+  369  ls
+  370  cd exam_shell_aglo_b1/
+  371  ls
+  372  cd ex02/
+  373  ls
+  374  vim instructions.txt
+  375  ls
+  376  vim data.csv
+  377  grep -i UX Lyon 2019 data.csv > UX_Lyon_2019.txt
+  378  ls
+  379  vim UX_Lyon_2019.txt
+  380  grep -i Lyon UX_Lyon_2019.txt > UX_Lyon_2019.txt
+  381  ls
+  382   grep -i Lyon UX_Lyon_2019.txt > d1.txt
+  383  vim d1.txt
+  384  ls
+  385  rm UX_Lyon_2019.txt
+  386  ls
+  387  rm d1.txt
+  388  ls
+  389  grep -i Lyon data.csv > d1.txt
+  390  ls
+  391  vim d1.txt
+  392  grep -i 2019 d1.txt > d2.txt
+  393  ls
+  394  vim d2.txt
+  395  grep -i UX d2.txt > d3.txt
+  396  ls
+  397  vim d3.txt
+  398  grep -n UX d3.txt > ux_lyon_2019.csv
+  399  vim ux_lyon_2019.csv
+  400  grep -c UX d3.txt > ux_lyon_2019.csv
+  401  vim ux_lyon_2019.csv
+  402  ls
+  403  rm d1.txt d2.txt d3.txt
+  404  ls
+  405  grep -i gameprogramming/2021 data.csv > test.txt
+  406  vim test.txt
+  407  grep -i gameprogramming data.csv > test.csv
+  408  vim test.csv
+  409  grep -i 2021 test.csv > GameProgramming_2021.csv
+  410  vim GameProgramming_2021.csv
+  411  ls
+  412  rm test.csv test.txt
+  413  ls
+  414  grep -i Susan data.csv > Susan.csv
+  415  vim Susan.csv
+  416  ls
+  417  grep -i Lille data.csv > lille.txt
+  418  vim lille.txt
+  419  vim lille.txt
+  420  vim lille.txt
+  421  grep -o @icanschool lille.txt > t.txt
+  422  vim t.txt
+  423  vim lille.txt
+  424  grep -o -i [prénom].[nom]@icanschool lille.txt > t.txt
+  425  vim t.txt
+  426  grep -o [nom]@icanschool lille.txt > t.txt
+  427  vim t.txt
+  428  vim lille.txt
+  429  grep -o -v @icanschool data.csv > test.txt
+  430  vim test.txt
+  431  ls
+  432  rm t.txt test.txt
+  433  vim lille.txt
+  434  grep -c Susan data.csv > Susan.csv
+  435  vim Susan.csv
+  436  grep -i com data.csv | grep -1 2023 data.csv > test.txt
+  437  vim test.txt
+  438  grep -i Communication data.csv | grep -i 2023 data.csv > Communication_2023.csv
+  439  vim Communication_2023.csv
+  440  grep -i Communication data.csv > test.txt
+  441  grep -i 2023 test.txt > Communication_2023.csv
+  442  vim Communication_2023.csv
+  443  grep -c 2023 test.txt > Communication_2023.csv
+  444  vim Communication_2023.csv 
+  445  ls
+  446  mkdir Consignes
+  447  mv Communication_2023.csv GameProgramming_2021.csv Susan.csv ux_lyon_2019.csv ./Consignes/
+  448  ls
+  449  grep -i Lille data.csv > lille.txt
+  450  vim lille.txt
+  451  awk -F',' '$3' lille.txt > testmail.txt
+  452  vim testmail.txt
+  453  awk -F',' '{print $3}' lille.txt > mails_Lille.csv
+  454  vim mails_Lille.csv
+  455  ls
+  456  grep -vi Bordeaux data.csv > test.txt
+  457  ls
+  458  vim test.txt
+  459  awk -F',' '{print $3}' test.txt > mails_GameDesign_Lyon_Paris_Lille.csv
+  460  vim mails_GameDesign_Lyon_Paris_Lille.csv 
+  461  ls
+  462  rm lille.txt test.txt
+  463  ls
+  464  mv mails_Lille.csv mails_GameDesign_Lyon_Paris_Lille.csv ./Consignes/
+  465  ls
+  466  rm testmails.txt
+  467  ls
+  468  cd ..
+  469  ls
+  470  cd ..
+  471  ls
+  472  history > history.txt
+  473  vim history.txt
+  474  cd exam_shell_aglo_b1/
+  475  ls
+  476  cd ex03/
+  477  ls
+  478  vim instructions.txt
+  479  touch bonjour.sh
+  480  vim bonjour.sh
+  481  ls
+  482  cd ..
+  483  ls
+  484  cd ex03/
+  485  ls
+  486  vim scrit.sh
+  487  ls
+  488  ./scrit.sh
+  489  vim scrit.sh 
+  490  ./scrit.sh
+  491  vim scrit.sh 
+  492  ./scrit.sh
+  493  vim scrit.sh 
+  494  ./scrit.sh
+  495  vim scrit.sh 
+  496  ./scrit.sh
+  497  vim bonjour.sh
+  498  ./bonjour.sh
+  499  vim bonjour.sh 
+  500  ./bonjour.sh
+  501  vim
+  502  vim bonjour.sh 
+  503  ./bonjour.sh
+  504  vim
+  505  vim bonjour.sh 
+  506  ./bonjour
+  507  vim bonjour.sh 
+  508  ./bonjour.sh
+  509  vim bonjour.sh 
+  510  ./bonjour.sh
+  511  vim bonjour.sh 
+  512  ./bonjour.sh
+  513  vim bonjour.sh 
+  514  ./bonjour.sh
+  515  vim bonjour.sh 
+  516  ./bonjour.sh
+  517  vim bonjour.sh 
+  518  ./bonjour.sh
+  519  cd ..
+  520  ls
+  521  history > history.txt
